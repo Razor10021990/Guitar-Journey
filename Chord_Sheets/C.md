@@ -5,13 +5,12 @@ chords:
   Gdim:
     - o3 b1,4,3 n2,4 n3,5 m5 m6
 ---
- 
- 
- 
- 
- 
- 
- 
- 
+1
+2
+3
+4
+5
+6
+7
 c3:                   C  Cadd9
 l3: test

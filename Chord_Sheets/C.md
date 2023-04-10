@@ -7,7 +7,9 @@ chords:
 ---
 c1:
 l1:
+
 c2:
 l2:
+
 c3: C
 l3: test
